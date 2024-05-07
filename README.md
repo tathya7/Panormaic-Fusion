@@ -12,6 +12,8 @@ This project focuses on the computing homographies and designed to seamlessly st
 - The FLANN (Fast Library for Approximate Nearest Neighbors) algorithm is then used to match the keypoints between the two images.
 - Matching keypoints are visually represented by drawing lines or markers on the images, showcasing the correspondence between key features.
 
+![image](https://github.com/tathya7/Panormaic-Fusion/assets/105652825/a52a84f1-d1ae-4011-be6f-e3691126d7a0)
+
 
 #### 2. Homography Computation and Perspective Transformation
 
