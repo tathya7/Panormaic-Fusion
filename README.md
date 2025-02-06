@@ -1,3 +1,5 @@
+Panoramic Fusion using Multiview Images
+
 This project focuses on the computing homographies and designed to seamlessly stitch images together to create stunning panoramic views. This project utilizes advanced computer vision techniques and algorithms to achieve precise image alignment and blending, resulting in a seamless and immersive panoramic experience. Below are the key steps involved in the Panoramic Fusion process:
 
 ### Final Result
